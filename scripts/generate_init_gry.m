@@ -1,4 +1,5 @@
 function init = generate_init_gry(data,NumDim)
+%%%%%%%  codes of initialization with automatic target generation process (ATGP)
 
 t = zeros(size(data,1));
 b = zeros(1,size(data,2));
